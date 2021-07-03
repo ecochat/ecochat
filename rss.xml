@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Ecochat Blog</title>
+        <link>https://ecochat.github.io/ecochat/</link>
+        <description>Ecochat Blog</description>
+        <lastBuildDate>Sat, 03 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Client pour terminal]]></title>
+            <link>https://ecochat.github.io/ecochat/client-terminal</link>
+            <guid>client-terminal</guid>
+            <pubDate>Sat, 03 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Il est désormais possible d'utiliser Ecochat depuis un client pour terminal, sous Windows (l'os, pas une fenêtre), macOS, Linux ainsi que ChromeOS. Toutes les fonctionnalités ont été intégrées pour que vous puissiez créer / vous connecter à un compte ou simplement parler avec les autres.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Ecochat]]></title>
+            <link>https://ecochat.github.io/ecochat/ecochat-info</link>
+            <guid>ecochat-info</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ecochat est en peu le nouveau Terminalchat malgré que beaucoup de choses ont changé.]]></description>
+        </item>
+    </channel>
+</rss>

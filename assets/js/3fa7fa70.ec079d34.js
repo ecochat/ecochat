@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkecochat_doc=self.webpackChunkecochat_doc||[]).push([[991],{1397:function(e){e.exports=JSON.parse('{"permalink":"/ecochat/","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Le site d\'Ecochat.","blogTitle":"Ecochat"}')}}]);

@@ -1,1 +1,0 @@
-(self.webpackChunkecochat_doc=self.webpackChunkecochat_doc||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Client pour terminal","permalink":"/ecochat/client-terminal"},{"title":"Ecochat","permalink":"/ecochat/ecochat-info"}]}')}}]);

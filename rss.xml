@@ -4,9 +4,16 @@
         <title>Ecochat Blog</title>
         <link>https://ecochat.github.io/ecochat/</link>
         <description>Ecochat Blog</description>
-        <lastBuildDate>Sat, 03 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[V2 de l'API]]></title>
+            <link>https://ecochat.github.io/ecochat/sortie-v2</link>
+            <guid>sortie-v2</guid>
+            <pubDate>Sun, 26 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Adieu les comptes Ecochat : mal fait, pas assez sécurisé. Pour utiliser Ecochat vous aurez besoin d'utiliser un compte Johanstickman.]]></description>
+        </item>
         <item>
             <title><![CDATA[Client pour terminal]]></title>
             <link>https://ecochat.github.io/ecochat/client-terminal</link>

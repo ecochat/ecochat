@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ecochat.github.io/ecochat/</id>
     <title>Ecochat Blog</title>
-    <updated>2021-09-26T00:00:00.000Z</updated>
+    <updated>2021-10-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ecochat.github.io/ecochat/"/>
     <subtitle>Ecochat Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[V2 - Ecochat pour terminal]]></title>
+        <id>client-terminal-v2</id>
+        <link href="https://ecochat.github.io/ecochat/client-terminal-v2"/>
+        <updated>2021-10-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nouvelle version du client pour terminal, celle-ci contient une refonte complète du code et quelques nouveautés.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[V2 de l'API]]></title>
         <id>sortie-v2</id>

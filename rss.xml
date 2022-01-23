@@ -4,9 +4,23 @@
         <title>Ecochat Blog</title>
         <link>https://ecochat.github.io/ecochat/</link>
         <description>Ecochat Blog</description>
-        <lastBuildDate>Wed, 27 Oct 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[V2.2 - Ecochat pour terminal]]></title>
+            <link>https://ecochat.github.io/ecochat/client-terminal-v2-2</link>
+            <guid>client-terminal-v2-2</guid>
+            <pubDate>Sun, 23 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Oh, une nouvelle mise à jour pour le client terminal d'Ecochat.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[V2.1 de l'API]]></title>
+            <link>https://ecochat.github.io/ecochat/api-v2-1</link>
+            <guid>api-v2-1</guid>
+            <pubDate>Sun, 23 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Il semblerait que genre, une seule fonctionnalité "majeure" a été ajouté, car flemme ptdr]]></description>
+        </item>
         <item>
             <title><![CDATA[V2 - Ecochat pour terminal]]></title>
             <link>https://ecochat.github.io/ecochat/client-terminal-v2</link>
